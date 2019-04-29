@@ -16,3 +16,5 @@ Auto Confirm Friend by Gender
 - Input :
     - Facebook token `your facebook token (EAAAAA...)`
     - Gender (F/M) `F = Female, M = Male`
+
+![Alt text](Screenshot_12.png "Example")
